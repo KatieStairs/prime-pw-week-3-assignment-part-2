@@ -9,7 +9,7 @@ This week, we will continue to put more into your tool belt by tackling methods 
 
 ## Assignment
 
-As always, start off by forking and cloning this repository from GitHub. Open the code up in Atom to get started. 
+As always, start off by forking and cloning this repository from GitHub. Open the code up in VS code to get started. 
 
 > Note that in the future we will not call this out explicitly. We'll assume you already know that is how you start your work. 
 
